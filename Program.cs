@@ -6,8 +6,10 @@
         {
 
             //Arrays arrays = new Arrays();
-            Array_TwoDimensional array_TwoDimensional = new Array_TwoDimensional();
-        
+            //Array_TwoDimensional array_TwoDimensional = new Array_TwoDimensional();
+            //Array_ArrayList array_ArrayList = new Array_ArrayList();
+            //HashTableDemo hashTableDemo = new HashTableDemo();
+
         }
     }
     
