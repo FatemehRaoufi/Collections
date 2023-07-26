@@ -12,6 +12,7 @@
             //NonGenericStack nonGenericStack = new NonGenericStack();
             //NonGenericQueue nonGenericQueue = new NonGenericQueue();
             //GenericDictionary genericDictionary = new GenericDictionary();
+            ConcurrentBagDemo concurrentBagDemo = new ConcurrentBagDemo();
         }
     }
     
