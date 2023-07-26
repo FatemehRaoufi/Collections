@@ -11,6 +11,7 @@
             //HashTableDemo hashTableDemo = new HashTableDemo();
             //NonGenericStack nonGenericStack = new NonGenericStack();
             //NonGenericQueue nonGenericQueue = new NonGenericQueue();
+            //GenericDictionary genericDictionary = new GenericDictionary();
         }
     }
     
